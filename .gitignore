@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Data (downloaded by code, never committed)
+data/
+
+# Spark leftovers
+spark-warehouse/
+metastore_db/
+derby.log
+
+# macOS
+.DS_Store
